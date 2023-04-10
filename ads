@@ -9,9 +9,9 @@
     "reword":""},
     
     "applovin": {
-    "banner":"22af6cc90a194679",
-    "inter":"caceed4e0df0cc94",
-    "nativ":"e03db650c4c92a93",
+    "banner":"88900d5d3435a9bf",
+    "inter":"10a8099fc1852555",
+    "nativ":"dddd6e01e3498f2c",
     "reword":""}
       
     }
